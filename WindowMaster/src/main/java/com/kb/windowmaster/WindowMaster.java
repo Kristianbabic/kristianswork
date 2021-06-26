@@ -1,5 +1,5 @@
 
-package com.kb;
+package com.kb.windowmaster;
 
 import java.util.Scanner;
 
